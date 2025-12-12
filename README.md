@@ -8,10 +8,10 @@ Live preview: https://allcampus-profile-setup.netlify.app (or add your own demo 
 ## Screenshots
 
 ### Desktop View (≥1200px)
-![Desktop Screenshot](screenshots/desktop.png)
+<img width="1234" height="583" alt="image" src="https://github.com/user-attachments/assets/c80c08ce-020a-4aa8-8442-191b2bd43c5d" />
 
 ### Tablet View (750px – 1199px)
-![Tablet Screenshot](screenshots/tablet.png)
+<img width="654" height="510" alt="image" src="https://github.com/user-attachments/assets/8ab158f7-79ac-4130-8c81-743d00e1eff9" />
 
 ### Mobile View (<750px)
 ![Mobile Screenshot](screenshots/mobile.png)
@@ -60,8 +60,8 @@ lib/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/allcampus-profile-setup.git
-cd allcampus-profile-setup
+git clone https://github.com/MadukaJP/Aptech-Flutter-Project-Three.git
+cd Aptech-Flutter-Project-Three
 
 # 2. Get dependencies
 flutter pub get
@@ -103,3 +103,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ---
 
 Made with passion by **Your Name** – Feel free to star if you like it!
+
