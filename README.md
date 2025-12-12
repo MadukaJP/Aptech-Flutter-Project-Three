@@ -8,15 +8,17 @@ Live preview: https://allcampus-profile-setup.netlify.app (or add your own demo 
 ## Screenshots
 
 ### Desktop View (≥1200px)
-<img width="1234" height="583" alt="image" src="https://github.com/user-attachments/assets/c80c08ce-020a-4aa8-8442-191b2bd43c5d" />
+![Desktop Screenshot](screenshots/desktop.jpeg)
 
 ### Tablet View (750px – 1199px)
-<img width="654" height="510" alt="image" src="https://github.com/user-attachments/assets/8ab158f7-79ac-4130-8c81-743d00e1eff9" />
+![Tablet Screenshot](screenshots/tablet.jpeg)
 
 ### Mobile View (<750px)
-![Mobile Screenshot](screenshots/mobile.png)
+![Mobile Screenshot](screenshots/mobile-1.jpg)
+![Mobile Screenshot](screenshots/mobile-2.jpg)
+![Mobile Screenshot](screenshots/mobile-3.jpg)
+![Mobile Screenshot](screenshots/mobile-4.jpg)
 
-> (Just replace the placeholder images in `/screenshots/` folder with your own captures)
 
 ## Features
 
@@ -28,9 +30,8 @@ Live preview: https://allcampus-profile-setup.netlify.app (or add your own demo 
 
 ## Tech Stack
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-[![Null Safety](https://img.shields.io/badge/null-safety-blue)](https://dart.dev/null-safety)
+- Flutter 
+- Dart 
 
 ## Project Structure
 
@@ -102,5 +103,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-Made with passion by **Your Name** – Feel free to star if you like it!
+Made with passion by **Mr. Maduka** – Feel free to star if you like it!
 
