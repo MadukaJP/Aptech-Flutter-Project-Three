@@ -7,17 +7,18 @@ Live preview: [https://aptech-flutter-project-three.netlify.app/](https://aptech
 
 ## Screenshots
 
-### Desktop View (≥1200px)
-![Desktop Screenshot](screenshots/desktop.jpeg)
+<h3>Desktop View (≥1200px)</h3>
+<img src="screenshots/desktop.jpeg" width="250">
 
-### Tablet View (750px – 1199px)
-![Tablet Screenshot](screenshots/tablet.jpeg)
+<h3>Tablet View (750px – 1199px)</h3>
+<img src="screenshots/tablet.jpeg" width="250">
 
-### Mobile View (<750px)
-![Mobile Screenshot](screenshots/mobile-1.jpg)
-![Mobile Screenshot](screenshots/mobile-2.jpg)
-![Mobile Screenshot](screenshots/mobile-3.jpg)
-![Mobile Screenshot](screenshots/mobile-4.jpg)
+<h3>Mobile View (<750px)</h3>
+<img src="screenshots/mobile-1.jpg" width="250">
+<img src="screenshots/mobile-2.jpg" width="250">
+<img src="screenshots/mobile-3.jpg" width="250">
+<img src="screenshots/mobile-4.jpg" width="250">
+
 
 
 ## Features
@@ -104,5 +105,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ---
 
 Made with passion by **Mr. Maduka** – Feel free to star if you like it!
+
 
 
