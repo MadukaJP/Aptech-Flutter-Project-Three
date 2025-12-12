@@ -3,7 +3,7 @@
 A beautiful, fully responsive Flutter profile setup screen with a modern dark theme, designed for students.  
 Supports **Desktop (3-column)**, **Tablet (2-column)**, and **Mobile (single column + drawer)** layouts seamlessly.
 
-Live preview: https://allcampus-profile-setup.netlify.app (or add your own demo link later)
+Live preview: [https://aptech-flutter-project-three.netlify.app/](https://aptech-flutter-project-three.netlify.app/)
 
 ## Screenshots
 
@@ -104,4 +104,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ---
 
 Made with passion by **Mr. Maduka** – Feel free to star if you like it!
+
 
